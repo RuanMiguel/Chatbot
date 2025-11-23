@@ -1,3 +1,5 @@
+#Chabot
+
 🤖 Chatbot Simples em Java com Similaridade de Texto
 - Este projeto é um chatbot simples desenvolvido em Java que utiliza técnicas básicas de Processamento de Linguagem Natural (PLN), especificamente TF-IDF e Similaridade de Cosseno, para determinar a melhor resposta para a pergunta de um usuário, comparando-a com um conjunto predefinido de perguntas/respostas.
 
